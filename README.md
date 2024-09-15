@@ -14,14 +14,14 @@ The main goals of this workshop include:
 - **Motif Detection**: Detect all possible motifs of a given size and identify the most frequent motif across all sequences.
 - **File Output**: Save all generated sequences to a text file (`dataset.txt`).
 
-## PROYECT STRUCTURE
+## Proyect structure
 genetic-sequence-simulator/
 │
 ├── Controller.java           # Main code for sequence generation and motif detection
 ├── dataset.txt               # Generated dataset (after running the program)
 ├── README.md                 # Project documentation
 
-## USAGE
+## Usage
 After running the program, you will be prompted to input the following values:
 
 1. Number of sequences to generate.
